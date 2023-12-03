@@ -3,7 +3,7 @@
     <title>RAKIFSUL ELECTRON</title>
     <link href="https://electron.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://electron.rakifsul.my.id" />
-    <updated>2023-12-03T19:20:44+07:00</updated>
+    <updated>2023-12-04T04:29:25+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -113,7 +113,7 @@
         <id>https://electron.rakifsul.my.id/belajar-electron-pembahasan-tentang-webview-tag.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:29:33+07:00</updated>
+        <updated>2023-12-04T04:26:32+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Dengan maraknya framework untuk me-render DOM melalui JavaScript seperti React, Vue dan sebagainya, maka pembuatan aplikasi scraper menjadi semakin menantang. Dulu, HTML bersifat statis atau setidaknya apa adanya sehingga untuk melakukan ekstraksi data cukup dengan menggunakan library untuk request HTTP biasa. Tapi bayangkan jika&hellip;
@@ -454,8 +454,8 @@ app.on("ready", async () =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang, seharusnya Anda telah memahami apa itu webview tag dan bagaimana cara menggunakannya untuk membuat web browser sederhana.</p>
 <p>Selanjutnya giliran Anda untuk mengembangkannya lebih lanjut.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -469,7 +469,7 @@ app.on("ready", async () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-mengenal-tray.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:29:46+07:00</updated>
+        <updated>2023-12-04T04:26:44+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Tray itu apa? Tray adalah icon interaktif yang berada pada taskbar dari Windows 11 yang biasanya ada di sekitar pojok kanan bawah dari layar komputer. Pada Windows 11, tray dari aplikasi yang belum pernah dijalankan sebelumnya tersembunyi di balik icon panah ke atas yang&hellip;
@@ -673,8 +673,8 @@ app.on("ready", async () =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang, seharusnya Anda sudah paham tentang Tray di framework Electron.</p>
 <p>Saran saya, kembangkan lagi pengetahuan ini dengan eksperimen Anda sendiri.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -688,7 +688,7 @@ app.on("ready", async () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-pembahasan-menu-dan-shell.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:30:03+07:00</updated>
+        <updated>2023-12-04T04:27:02+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Menu adalah sesuatu yang sering ditemukan pada aplikasi desktop. Itu adalah sebuah elemen GUI yang bercabang dan biasanya terletak di bagian atas dari window aplikasi desktop. Meskipun menu dapat dibuat via HTML dari Electron, namun menu yang saya maksud kali ini adalah native menunya.
@@ -1092,8 +1092,8 @@ const mainMenuTemplate = [
 <h2>Penutup</h2>
 <p>Sekarang seharusnya Anda telah memahami menu dan shell pada Electron.</p>
 <p>Selanjutnya, Anda bisa mencoba memodifikasi menu dan shell yang saya buat tadi dan melihat hasilnya.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1107,7 +1107,7 @@ const mainMenuTemplate = [
         <id>https://electron.rakifsul.my.id/belajar-electron-mengenal-save-dialog.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:30:19+07:00</updated>
+        <updated>2023-12-04T04:27:30+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Fitur "save" atau "save as" bukan hal yang baru di aplikasi desktop. Biasanya saat menu untuk fitur tersebut diklik, maka akan tampil dialog yang bisa memilih lokasi penyimpanan file. Itulah Save Dialog. Electron memberi kita fitur Save Dialog melalui method dialog.showSaveDialog. Itu termasuk fitur&hellip;
@@ -1220,8 +1220,8 @@ app.on("ready", async () =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang Anda telah memahami method dialog.showSaveDialog.</p>
 <p>Silakan kembangkan pengetahuan ini lebih lanjut.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1235,7 +1235,7 @@ app.on("ready", async () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-mengenal-open-dialog.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:30:45+07:00</updated>
+        <updated>2023-12-04T04:27:45+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Dalam penggunaan aplikasi desktop, tidak jarang kita memerlukan file yang sudah dibuat sebelumnya dan kita ingin membukanya kembali. Jika kita memasukkan path-nya secara manual, maka akan terasa sulit jika kita tidak terbiasa menggunakan command line. Untuk mendapatkan lokasi file-nya dengan lebih mudah diperlukan sebuah&hellip;
@@ -1348,8 +1348,8 @@ app.on("ready", async () =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang, Anda telah memahami method dialog.showOpenDialog dan beberapa parameternya.</p>
 <p>Silakan dieksplorasi lebih jauh lagi.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1363,7 +1363,7 @@ app.on("ready", async () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-mengenal-message-box.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:30:58+07:00</updated>
+        <updated>2023-12-04T04:28:02+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Dalam sebuah aplikasi desktop, terkadang ada pesan yang perlu disampaikan kepada pengguna karena berbagai alasan. Misalnya ada error pada aplikasi, task tertentu telah selesai dilakukan, ada peringatan, dan lain-lain. Untuk menampilkan pesan semacam itu, Message Box bisa digunakan. Electron telah menyediakan API untuk memberi&hellip;
@@ -1508,8 +1508,8 @@ app.on("ready", async () =&gt; {
 <p>Sekarang Anda telah mengenal beberapa jenis Message Box yang tadi telah saya bahas.</p>
 <p>Dalam prakteknya, saya lebih menyarankan untuk menggunakan Message Box daripada alert().</p>
 <p>Itu karena fitur Message Box lebih lengkap.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1523,7 +1523,7 @@ app.on("ready", async () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-mengenal-ipcmain-dan-ipcrenderer.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:31:14+07:00</updated>
+        <updated>2023-12-04T04:28:17+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Konsep main dan renderer process sangat penting untuk dipahami. Main dan renderer process sangat erat kaitannya dengan modul ipcMain dan ipcRenderer. ipcMain dan ipcRenderer digunakan dalam komunikasi antara main process dengan renderer proces. Itulah yang memberi kita peluang untuk memanggil native API dari HTML&hellip;
@@ -1707,8 +1707,8 @@ ipcMain.on('button-click', (event, args) =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang Anda telah dijelaskan tentang ipcMain, ipcRenderer dan interaksi di antara keduanya.</p>
 <p>Saran saya, coba eksplorasi method-method lain dari ipcMain dan ipcRenderer dan coba di project Anda sendiri.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1722,7 +1722,7 @@ ipcMain.on('button-click', (event, args) =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-memahami-perilaku-consolelog.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:31:24+07:00</updated>
+        <updated>2023-12-04T04:28:34+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Perilaku console.log berbeda-beda di Electron. Tergantung dari apakah console.log tersebut dijalankan di main process atau renderer process. Pemahaman konsep main process dan renderer process adalah sangat penting dalam menggunakan Electron. Ini adalah cara untuk menyadarkan Anda, bahwa main process adalah process yang berbeda dengan&hellip;
@@ -1834,8 +1834,8 @@ console.log("console.log di renderer process")</code></pre>
 <h2>Penutup</h2>
 <p>Sekarang, Anda telah memahami perilaku console.log di main process dan renderer process.</p>
 <p>Ini adalah awal untuk memahami main process dan renderer process lebih lanjut.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -1849,7 +1849,7 @@ console.log("console.log di renderer process")</code></pre>
         <id>https://electron.rakifsul.my.id/belajar-electron-pembahasan-tentang-loadurl.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:31:52+07:00</updated>
+        <updated>2023-12-04T04:29:04+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Method BrowserWindow yang bernama loadURL ini memiliki fungsi ganda. Pertama, ia bisa me-load alamat web secara remote. Kedua, ia bisa me-load file HTML lokal. Penggunaan loadURL adalah sangat sering saat kita menggunakan framework Electron, karena tampilan dari aplikasi Electron dibuka melalui method tersebut. Walaupun&hellip;
@@ -2008,8 +2008,8 @@ app.on('ready', () =&gt; {
 <p>Bahwa loadURL bisa digunakan untuk membuka URL remote maupun file lokal.</p>
 <p>Bahwa loadFile bisa menggantikan loadURL untuk membuka file lokal.</p>
 <p>Saran saya, jika Anda menggunakan versi Electron terbaru, gunakan loadFile saja untuk membuka HTML karena lebih rapi.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -2023,7 +2023,7 @@ app.on('ready', () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-pembahasan-tentang-browserwindow.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:31:58+07:00</updated>
+        <updated>2023-12-04T04:29:11+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Di Electron, BrowserWindow adalah komponen utama. Dengan BrowserWindow, kita bisa membuka file HTML berisi HTML tag, CSS, dan JavaScript untuk membentuk sebuah tampilan GUI yang kaya. File HTML, CSS, dan JavaScript yang dibuka bisa bersumber dari file lokal maupun remote via URL. Artinya, secara&hellip;
@@ -2154,7 +2154,7 @@ app.on('ready', () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-cara-menggunakan-jquery.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:31:38+07:00</updated>
+        <updated>2023-12-04T04:28:48+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan jQuery adalah library JavaScript yang memudahkan kita untuk menangani DOM. Penggunaan jQuery di website atau aplikasi web normal adalah sangat mudah. Lalu bagaimana dengan penggunaannya di Electron? Ternyata memerlukan sedikit trik. Tujuan dari tutorial ini adalah: Prasyarat dari tutorial ini adalah: Pertama, buatlah project&hellip;
@@ -2260,9 +2260,8 @@ app.on('ready', () =&gt; {
 <h2>Penutup</h2>
 <p>Sekarang, Anda telah tahu cara menggunakan jQuery di Electron.</p>
 <p>Harap ingat baik-baik cara ini karena kemungkinan tutorial ke depannya akan banyak menggunakan jQuery.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
-<p> </p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
@@ -2276,7 +2275,7 @@ app.on('ready', () =&gt; {
         <id>https://electron.rakifsul.my.id/belajar-electron-cara-membuat-project.html</id>
             <category term="Dasar"/>
 
-        <updated>2023-11-25T00:32:11+07:00</updated>
+        <updated>2023-12-04T04:29:25+07:00</updated>
             <summary>
                 <![CDATA[
                     Pendahuluan Electron atau Electron js adalah sebuah framework aplikasi desktop yang menggunakan bahasa JavaScript. Electron dapat digunakan untuk membuat aplikasi Windows, Mac OS dan Linux dengan tampilan yang dirancang dengan teknologi HTML, CSS, dan JavaScript. Walaupun aplikasi yang dihasilkan oleh framework itu memiliki ukuran yang&hellip;
@@ -2399,9 +2398,8 @@ app.on('ready', () =&gt; {
 <p>Aplikasi yang saya buat tadi adalah salah satu contoh aplikasi Electron yang paling sederhana.</p>
 <p>Intinya, Anda harus membuat BrowserWindow.</p>
 <p>Nanti, BrowserWindow tersebut bisa membuka file HTML baik secara lokal maupun dari remote address yang artinya tampilannya akan muncul.</p>
-<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code nya di:</p>
-<p><a href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24</a></p>
-<p> </p>
+<p>Jika Anda ingin langsung mencoba project di tutorial ini, beli paket source code-nya.</p>
+<p><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/paket-project-electron-dasar-2023-11-24" target="_blank" rel="nofollow noopener noreferrer">beli paket source code-nya</a></p>
 <p> </p>
             ]]>
         </content>
