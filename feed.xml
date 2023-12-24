@@ -3,7 +3,7 @@
     <title>RAKIFSUL ELECTRON</title>
     <link href="https://electron.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://electron.rakifsul.my.id" />
-    <updated>2023-12-24T00:54:21+07:00</updated>
+    <updated>2023-12-25T06:40:14+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -18,15 +18,16 @@
         <id>https://electron.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
             <category term="Premium"/>
 
-        <updated>2023-12-24T00:54:21+07:00</updated>
+        <updated>2023-12-25T06:40:14+07:00</updated>
             <summary>
                 <![CDATA[
-                    File video adalah file yang jika dibuka dengan aplikasi video player akan menampilkan suatu kumpulan frame gambar yang bergerak seiring waktu. Contoh yang paling mudah adalah file .mp4. Jika Anda membuka file .mp4 dengan video player yang dapat memainkan file .mp4, maka akan tampil video-nya.
+                    Pendahuluan File video adalah file yang jika dibuka dengan aplikasi video player akan menampilkan suatu kumpulan frame gambar yang bergerak seiring waktu. Contoh yang paling mudah adalah file .mp4. Jika Anda membuka file .mp4 dengan video player yang dapat memainkan file .mp4, maka akan tampil&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>File video adalah file yang jika dibuka dengan aplikasi video player akan menampilkan suatu kumpulan frame gambar yang bergerak seiring waktu.</p>
+                <h2>Pendahuluan</h2>
+<p>File video adalah file yang jika dibuka dengan aplikasi video player akan menampilkan suatu kumpulan frame gambar yang bergerak seiring waktu.</p>
 <p>Contoh yang paling mudah adalah file .mp4.</p>
 <p>Jika Anda membuka file .mp4 dengan video player yang dapat memainkan file .mp4, maka akan tampil video-nya.</p>
 <p>Video adalah sebuah media yang banyak gunanya.</p>
@@ -44,11 +45,14 @@
 <p>Bagaimana kita bisa membuat aplikasi video player dengan Electron? Itulah yang akan dibahas dalam studi kasus kali ini.</p>
 <p>Dalam studi kasus ini, saya juga akan memperkenalkan sebuah library CSS bernama Metro UI.</p>
 <p>Metro memiliki fitur yang cukup lengkap, salah satunya adalah untuk membuat elemen video player yang sudah memiliki controller-nya.</p>
-<p>Berikut ini adalah screenshot aplikasi yang dibahas (hanya ilustrasi, hasilnya bisa beda):</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://electron.rakifsul.my.id/media/posts/18/gallery/electron_1KEYAW2MnW.png" data-size="786x558"><img loading="lazy" src="https://electron.rakifsul.my.id/media/posts/18/gallery/electron_1KEYAW2MnW-thumbnail.png" alt="" width="768" height="545"></a></figure>
-<figure class="gallery__item"><a href="https://electron.rakifsul.my.id/media/posts/18/gallery/electron_LUdprCor8N.png" data-size="786x558"><img loading="lazy" src="https://electron.rakifsul.my.id/media/posts/18/gallery/electron_LUdprCor8N-thumbnail.png" alt="" width="768" height="545"></a></figure>
-</div></div>
+<h2>Fitur</h2>
+<ul>
+<li>Ebook sudah termasuk</li>
+<li>Source code sudah termasuk</li>
+</ul>
+<h2>Tampilan</h2>
+<p>Berikut ini adalah screencast aplikasi yang dibahas (hanya ilustrasi, hasilnya bisa beda):</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ezvyc1I1Nxc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Untuk membaca studi kasus ini, Anda harus membelinya dengan klik tombol di bawah.</p>
 <p class="align-center"><a class="btn coba" style="width: 100%;" href="https://karyakarsa.com/rakifsul/studi-kasus-electron-membuat-aplikasi-video-player" target="_blank" rel="nofollow noopener noreferrer">beli sekarang!</a></p>
             ]]>
